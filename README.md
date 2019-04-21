@@ -1,13 +1,12 @@
 ## 🏃🏃🏃 算法 🏃🏃🏃‍
-实践
-📚 [Leetcode分类顺序表](https://cspiration.com/leetcodeClassification#10301)
-理论
-👂[王争:数据结构与算法之美](https://time.geekbang.org/column/article/42733)
-📺[覃超:算法面试通关40讲](https://time.geekbang.org/course/intro/130)
+实践&理论
++ 📚 [Leetcode分类顺序表](https://cspiration.com/leetcodeClassification#10301)
++ 👂[王争:数据结构与算法之美](https://time.geekbang.org/column/article/42733)
++ 📺[覃超:算法面试通关40讲](https://time.geekbang.org/course/intro/130)
 
 
-### 二分查找
-<font color=green>easy</font>
+### Binary Search(二分查找)
+<font style="color: green">easy</font>
 - [ ] 69：Sqrt(x) 
 - [ ] 278：first bad version 
 - [ ] 35: search insert position
@@ -15,7 +14,7 @@
 - [ ] 349: intersection of two arrays
 - [ ] 350: intersection of two arrays ii
 
-<font color=orange>medium</font>
+<font style="color: orange">medium</font>
 
 - [ ] 33: search in sorted array
 - [ ] 81: search in rotated sorted array ii
@@ -24,7 +23,7 @@
 - [ ] 34: find first and last position of element in sorted array
 - [ ] 300: longest increasing subsequence
 
-<font color=red>hard</font>
+<font style="color: red">hard</font>
 - [ ] 154: find minimum in rotated sorted array ii
 - [ ] 315: count of smaller numbers after self
 - [ ] 354: russian doll envelopes
@@ -33,17 +32,17 @@
 ### Array
 
 ### String
-<font color=green>easy</font>
+<font style="color: green">easy</font>
 
 - [ ] 28: Implement strStr() 
 
 ### Trie
 
-<font color=orange>medium</font>
+<font style="color: orange">medium</font>
 - [ ] 208: implement trie (prefix tree)
 - [ ] 79: word search
 
-<font color=red>hard</font>  
+<font style="color: red">hard</font>
 - [ ] 212: word search ii
 
 ### Tree
@@ -54,15 +53,15 @@
 - [ ] 112: path sum
 
 #### BST(二叉搜索树)
-<font color=green>easy</font>
+<font style="color: green">easy</font>
 - [ ] 235: lowest common ancestor of a binary search tree
 
-<font color=orange>medium</font>
+<font style="color: orange">medium</font>
 - [ ] 98: validate binary search tree
 - [ ] 236: lowest common ancestor of a binary tree
 
 ### DFS & BFS
-<font color=orange>medium</font>
+<font style="color: orange">medium</font>
 - [ ] 102: binary tree level order traversal
 - [ ] 200: number of islands
 
