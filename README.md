@@ -6,7 +6,7 @@
 
 
 ### Binary Search(二分查找)
-<font style="color: green">easy</font>
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [ ] 69：Sqrt(x) 
 - [ ] 278：first bad version 
 - [ ] 35: search insert position
@@ -14,7 +14,7 @@
 - [ ] 349: intersection of two arrays
 - [ ] 350: intersection of two arrays ii
 
-<font style="color: orange">medium</font>
+![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 
 - [ ] 33: search in sorted array
 - [ ] 81: search in rotated sorted array ii
@@ -23,7 +23,7 @@
 - [ ] 34: find first and last position of element in sorted array
 - [ ] 300: longest increasing subsequence
 
-<font style="color: red">hard</font>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) hard
 - [ ] 154: find minimum in rotated sorted array ii
 - [ ] 315: count of smaller numbers after self
 - [ ] 354: russian doll envelopes
@@ -32,36 +32,36 @@
 ### Array
 
 ### String
-<font style="color: green">easy</font>
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy 
 
 - [ ] 28: Implement strStr() 
 
 ### Trie
 
-<font style="color: orange">medium</font>
+![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 - [ ] 208: implement trie (prefix tree)
 - [ ] 79: word search
 
-<font style="color: red">hard</font>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) hard
 - [ ] 212: word search ii
 
 ### Tree
 
-<font color=green>easy</font>
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [ ] 104: maximum depth of binary tree
 - [ ] 226: invert binary tree
 - [ ] 112: path sum
 
 #### BST(二叉搜索树)
-<font style="color: green">easy</font>
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [ ] 235: lowest common ancestor of a binary search tree
 
-<font style="color: orange">medium</font>
+![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 - [ ] 98: validate binary search tree
 - [ ] 236: lowest common ancestor of a binary tree
 
 ### DFS & BFS
-<font style="color: orange">medium</font>
+![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 - [ ] 102: binary tree level order traversal
 - [ ] 200: number of islands
 
