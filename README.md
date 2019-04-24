@@ -7,7 +7,7 @@
 
 ### Binary Search(二分查找)
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [ ] 69：Sqrt(x) 
+- [ ] 69：[sqrt(x)](./sqrt.py)	
 - [ ] 278：first bad version 
 - [ ] 35: search insert position
 - [ ] 374: guess number higher or lower
