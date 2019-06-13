@@ -8,7 +8,7 @@
 ### Binary Search(二分查找)
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [x] 69：[sqrt(x)](./sqrt.py)	
-- [x] 278：first bad version 
+- [x] 278：[firstBadVersion(n)](./firstBadVersion.py)
 - [ ] 35: search insert position
 - [ ] 374: guess number higher or lower
 - [ ] 349: intersection of two arrays
