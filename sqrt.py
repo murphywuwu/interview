@@ -12,7 +12,7 @@ def sqrt(x):
       return i - 1 
 
 """ 解法2:二分查找 """
-def sqrt(self, x: int):
+def sqrt(x: int):
   low = 0
   high = x
 
