@@ -14,7 +14,7 @@ def firstBadVersion(n):
     mid = int((high - low)/2) + low
 
     if isBadVersion(mid):
-      if not isBadVersion(mid - 1:
+      if not isBadVersion(mid - 1):
         return mid
 
       high = mid - 1
