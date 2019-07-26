@@ -28,13 +28,40 @@
 - [ ] 315: count of smaller numbers after self
 - [ ] 354: russian doll envelopes
 
-
-### Array
+### Sort
+- [ ] 冒泡排序
+- [ ] 插入排序
+- [ ] 选择排序
+- [ ] 归并排序
+- [ ] 桶排序
+- [ ] 计数排序
+- [ ] 基数排序
 
 ### String
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy 
 
 - [ ] 28: Implement strStr() 
+
+### Array
+
+### LinkedList
+- [ ] 707: Design  Linked List
+- [ ] 206: Reverse Linked List
+- [ ] 141: Linked List cycle
+- [ ] 24: swap Nodes in Pairs
+
+### Queue
+- [ ] 232: Implement Queue using stacks
+
+### Stack
+- [ ] 20: valid parentheses
+- [ ] 225: Implement Stack using Queue
+
+### 跳表
+- [ ] 实现跳表
+
+### Hash Table
+- [ ] 实现hash Table
 
 ### Trie
 
@@ -52,13 +79,36 @@
 - [ ] 226: invert binary tree
 - [ ] 112: path sum
 
+#### Binary Tree(二叉树)
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
+- [ ] 226: invert Binary Tree(反转二叉树)
+- [ ] 112: Path Sum
+
+![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
+- [ ] 236: lowest common ancestor of a binary tree
+
 #### BST(二叉搜索树)
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [ ] 235: lowest common ancestor of a binary search tree
 
 ![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 - [ ] 98: validate binary search tree
-- [ ] 236: lowest common ancestor of a binary tree
+
+#### 平衡二叉搜索树
+
+#### 红黑树
+
+#### 递归树
+
+### 堆
+![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
+- [ ] 703: Kth Largest Element in a Stream(求top-K)
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) hard
+- [ ] 4: Median of Two Sorted Arrays(求中位数)
+- [ ] 239: Sliding Window Maximum(返回滑动窗口的最大值)
+
+### 图
 
 ### DFS & BFS
 ![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
@@ -67,7 +117,11 @@
 
 ### Backtracking(回溯算法)
 
+### greedy algorithm(贪心算)
+
 ### Topological Sort(括扑排序)
+
+### Dynamic programming(动态规划)
 
 
 ## 🍻🍻🍻 JS基础 🍻🍻🍻
