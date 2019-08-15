@@ -116,6 +116,7 @@
 - [ ] 200: number of islands
 
 ### Backtracking(回溯算法)
+- [ ] 36. Valid Sudoku
 
 ### greedy algorithm(贪心算)
 
