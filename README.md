@@ -76,31 +76,17 @@
 
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [x] 104: maximum depth of binary tree
+- [ ] 111: minimum depth of binary tree
+- [ ] 235: lowest common ancestor of a binary search tree
 - [ ] 226: invert binary tree
 - [ ] 112: path sum
 
-#### Binary Tree(二叉树)
-![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [ ] 226: invert Binary Tree(反转二叉树)
-- [ ] 112: Path Sum
-
 ![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
+- [ ] 102: binary tree level order traversal
 - [ ] 236: lowest common ancestor of a binary tree
-
-#### BST(二叉搜索树)
-![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [ ] 235: lowest common ancestor of a binary search tree
-
-![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
 - [ ] 98: validate binary search tree
 
-#### 平衡二叉搜索树
-
-#### 红黑树
-
-#### 递归树
-
-### 堆
+#### Heap
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
 - [ ] 703: Kth Largest Element in a Stream(求top-K)
 
@@ -109,21 +95,8 @@
 - [ ] 239: Sliding Window Maximum(返回滑动窗口的最大值)
 
 ### 图
-
-### DFS & BFS
-![#1589F0](https://placehold.it/15/fa8919/000000?text=+) medium
-- [ ] 102: binary tree level order traversal
 - [ ] 200: number of islands
-
-### Backtracking(回溯算法)
 - [ ] 36. Valid Sudoku
-
-### greedy algorithm(贪心算)
-
-### Topological Sort(括扑排序)
-
-### Dynamic programming(动态规划)
-
 
 ## 🍻🍻🍻 Daily-Question 🍻🍻🍻
 
