@@ -7,9 +7,9 @@
 
 ### Binary Search(二分查找)
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [x] 69：[sqrt(x)](./sqrt.py)	
-- [x] 278：[firstBadVersion(n)](./firstBadVersion.py)
-- [x] 35: [search insert position](./searchInsert.py)
+- [x] 69：[sqrt(x)](./69.py)	
+- [x] 278：[firstBadVersion(n)](./278.py)
+- [x] 35: [search insert position](./35.py)
 - [ ] 374: guess number higher or lower
 - [ ] 349: intersection of two arrays
 - [ ] 350: intersection of two arrays ii
@@ -75,7 +75,7 @@
 ### Tree
 
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [x] 104: maximum depth of binary tree
+- [x] 104: [maximum depth of binary tree]('./Tree/104.py')
 - [ ] 111: minimum depth of binary tree
 - [ ] 235: lowest common ancestor of a binary search tree
 - [ ] 226: invert binary tree
