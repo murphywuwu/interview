@@ -75,7 +75,7 @@
 ### Tree
 
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
-- [ ] 104: maximum depth of binary tree
+- [x] 104: maximum depth of binary tree
 - [ ] 226: invert binary tree
 - [ ] 112: path sum
 
