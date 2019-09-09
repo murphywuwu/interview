@@ -4,6 +4,7 @@
 + 👂[王争:数据结构与算法之美](https://time.geekbang.org/column/article/42733)
 + 📺[覃超:算法面试通关40讲](https://time.geekbang.org/course/intro/130)
 
+![image](https://user-images.githubusercontent.com/12481194/64520438-c643de80-d328-11e9-84c2-598e604d0883.png)
 
 ### Binary Search(二分查找)
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
@@ -85,6 +86,7 @@
 - [ ] 102: binary tree level order traversal
 - [ ] 236: lowest common ancestor of a binary tree
 - [ ] 98: validate binary search tree
+- [ ] 863: all nodes distance k in binary tree
 
 #### Heap
 ![#c5f015](https://placehold.it/15/34a853/000000?text=+) easy
@@ -93,6 +95,7 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) hard
 - [ ] 4: Median of Two Sorted Arrays(求中位数)
 - [ ] 239: Sliding Window Maximum(返回滑动窗口的最大值)
+- [ ] 215. Kth Largest Element in an Array
 
 ### 图
 - [ ] 200: number of islands
