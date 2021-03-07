@@ -132,6 +132,7 @@ LazyMan('Tony).eat('lunch').eat('dinner').sleepFirst(5).sleep(10).eat('junk food
 
 
 📚 [【前端面试】同学，你会手写代码吗？](https://juejin.im/post/5c9edb066fb9a05e267026dc#heading-13)
+📚 [自学转行前端3年经验，终入职阿里！](https://mp.weixin.qq.com/s/jXQVkyq3Nec6o2subyuyfw)
 
 
 持续更新...
