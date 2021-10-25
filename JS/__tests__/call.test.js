@@ -6,7 +6,6 @@ import call from "../call";
 
 describe("myCall", () => {
   test("fn", () => {
-    // Function.prototype
     const obj = Object.create(Function.prototype);
     expect(obj.myCall).toThrow();
   });
